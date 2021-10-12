@@ -1,14 +1,14 @@
 <!-- links to social media icons -->
 <!-- no need to change these -->
-
+<!-- no need to change these -->
 <!-- icons  -->
 
 [2.1]: https://img.icons8.com/windows/48/000000/github.png
-
+<!-- no need to change these -->
 
 <!-- links to my social media accounts -->
 
-
+<!-- no need to change these -->
 [2]: https://www.github.com/MarijuanaHash
 
 
